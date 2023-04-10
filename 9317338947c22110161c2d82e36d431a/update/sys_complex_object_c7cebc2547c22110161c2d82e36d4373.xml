@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD07cebc2543c22110762ceeb18b9bbf73</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9317338947c22110161c2d82e36d431a</scope_name>
+        <serialized_content>{"FlowDesigner:FD07cebc2543c22110762ceeb18b9bbf73":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD07cebc2543c22110762ceeb18b9bbf73.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"pwd2droppable\":\"true\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Group_List_out\",\"mandatory\":\"true\",\"child_name\":\"group_list_out_child0\",\"uiUniqueId\":\"51b60663-abfd-411b-93be-6ce824fba976\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FD07cebc2543c22110762ceeb18b9bbf73\",\"child_label\":\"Group_List_out_child0\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"b55112d0-c3fe-47de-b3a5-6991db209345\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 18:36:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c7cebc2547c22110161c2d82e36d4373</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>FD07cebc2543c22110762ceeb18b9bbf73</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SN Admin Automation" source="9317338947c22110161c2d82e36d431a">9317338947c22110161c2d82e36d431a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Admin Automation">9317338947c22110161c2d82e36d431a</sys_scope>
+        <sys_update_name>sys_complex_object_c7cebc2547c22110161c2d82e36d4373</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 18:47:14</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Create ServiceNow User ID">46c6441947062110161c2d82e36d43e3</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-05 20:45:11</sys_created_on>
+        <sys_id>2ab2109547462110161c2d82e36d43c8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Services.Create ServiceNow User ID</sys_name>
+        <sys_package display_value="SN Admin Automation" source="9317338947c22110161c2d82e36d431a">9317338947c22110161c2d82e36d431a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Admin Automation">9317338947c22110161c2d82e36d431a</sys_scope>
+        <sys_update_name>sc_cat_item_category_2ab2109547462110161c2d82e36d43c8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-05 21:01:12</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SN Admin Automation">9317338947c22110161c2d82e36d431a</application>
+        <file_path/>
+        <instance_id>8fa5e9b1db6dfa007e55d5b0cf961929</instance_id>
+        <instance_name>dev31767</instance_name>
+        <name>sc_cat_item_category_2ab2109547462110161c2d82e36d43c8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Create ServiceNow User ID">46c6441947062110161c2d82e36d43e3</sc_cat_item><sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-05 20:45:11</sys_created_on><sys_id>2ab2109547462110161c2d82e36d43c8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Services.Create ServiceNow User ID</sys_name><sys_package display_value="SN Admin Automation" source="9317338947c22110161c2d82e36d431a">9317338947c22110161c2d82e36d431a</sys_package><sys_policy/><sys_scope display_value="SN Admin Automation">9317338947c22110161c2d82e36d431a</sys_scope><sys_update_name>sc_cat_item_category_2ab2109547462110161c2d82e36d43c8</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-04-05 21:01:12</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1636214596</payload_hash>
+        <record_name>Services.Create ServiceNow User ID</record_name>
+        <reverted_from/>
+        <source>7a82d4a547022110161c2d82e36d4358</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-06 15:22:53</sys_created_on>
+        <sys_id>cb82d4a547022110161c2d82e36d4391</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1875729da690000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-06 15:22:53</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>8f82d4a538022110546111e4af12df90</update_guid>
+        <update_guid_history>8f82d4a538022110546111e4af12df90:1636214596,5966109919462110cb34a4b3a187e050:-767493320</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Services.Create ServiceNow User ID">1b82d4a547022110161c2d82e36d4396</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-06 15:22:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>4270f263c1064207b49a7757bb3598e1</sys_id>
+        <sys_metadata>2ab2109547462110161c2d82e36d43c8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Create ServiceNow User ID</sys_name>
+        <sys_package display_value="SN Admin Automation" source="9317338947c22110161c2d82e36d431a">9317338947c22110161c2d82e36d431a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SN Admin Automation">9317338947c22110161c2d82e36d431a</sys_scope>
+        <sys_scope_delete display_value="">2f0695e5430e46a893eb922871861440</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_2ab2109547462110161c2d82e36d43c8</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_2ab2109547462110161c2d82e36d43c8">cb82d4a547022110161c2d82e36d4391</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-06 15:22:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
